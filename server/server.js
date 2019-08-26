@@ -1,4 +1,4 @@
-const express = require('express');
+/* const express = require('express');
 const app = express();
 const fs = require('fs');
 const home_route = require('../routes/home');
@@ -20,4 +20,4 @@ app.use('/Register', register_route);
 
 app.listen(port, () => {
     console.log('\nServidor iniciado en la direccion http://localhost:9001/\n');
-});
+}); */
